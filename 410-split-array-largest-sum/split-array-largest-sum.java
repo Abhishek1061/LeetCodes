@@ -4,9 +4,9 @@ class Solution {
         int end = 0;
 
         //Linear Search
-        for (int i = 0; i < nums.length; i++) {
-            start = Math.max(start, nums[i]); // in the end of the loop this will contain the max item from the array.
-            end += nums[i];
+        for (int i : nums) {
+            start = Math.max(start, i); // in the end of the loop this will contain the max item   from the array.
+            end += i;
         }
 
         //binary search
