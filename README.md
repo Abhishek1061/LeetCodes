@@ -22,4 +22,4 @@ While this repository contains my personal solutions, contributions are always w
 
 Please use this repository responsibly. While it can be tempting to copy-paste the solution for a challenging problem, I encourage you to try solving the problem on your own first. This is the best way to truly improve your problem-solving skills.
 
-Happy Coding!! 💻
+Happy Coding! 💻
