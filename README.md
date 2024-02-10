@@ -16,7 +16,7 @@ Feel free to browse through the solutions. Each solution file is named with the 
 
 ## Contributions 💡
 
-While this repository contains my personal solutions, contributions are always welcome! If you have a different approach to solve a problem or a more efficient solution, feel free to make a pull request.
+While this repository contains my personal solutions, contributions are always welcome! If you have a different approach to solve a problem or a more efficient solution,feel free to make a pull request.
 
 ## Disclaimer ⚠️
 
