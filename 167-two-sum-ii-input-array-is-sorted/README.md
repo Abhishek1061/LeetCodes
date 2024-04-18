@@ -32,7 +32,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraints:-</strong></p>
 
 <ul>
 	<li><code>2 &lt;= numbers.length &lt;= 3 * 10<sup>4</sup></code></li>
