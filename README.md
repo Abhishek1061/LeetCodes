@@ -2,7 +2,7 @@
 
 Welcome to the LeetCode Solutions Repository! This repository is a comprehensive collection of solutions for problems from LeetCode. 
 
-## What's Inside? 📦
+## What's Inside? 📦 
 
 This repository contains my personal solutions to LeetCode problems. The solutions are written in various programming languages and are organized by the problem numbers for easy navigation.
 
