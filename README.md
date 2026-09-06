@@ -1,5 +1,4 @@
 # LeetCode Solutions Repository
-
 Welcome to the LeetCode Solutions Repository! This repository is a comprehensive collection of solutions for problems from LeetCode. 
 
 ## What's Inside? 📦 
