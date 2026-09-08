@@ -9,8 +9,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync LeetCode
-        uses: joshcai/leetcode-sync@v1.7 # Changed from v1.7.0 to v1.7
+      - name: Sync LeetCode Submissions
+        uses: seasonss/leetcode-sync-v2@v1.0.1
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
