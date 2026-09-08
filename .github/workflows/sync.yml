@@ -1,9 +1,12 @@
 name: Sync LeetCode Submissions
 
 on:
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows manual trigger
   schedule:
-    - cron: '0 8 * * *' # Runs automatically every day at 8 AM UTC
+    - cron: '0 8 * * *' # Runs automatically every day
+
+permissions:
+  contents: write # CRITICAL: Forces GitHub to allow file creation
 
 jobs:
   build:
